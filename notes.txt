@@ -1,8 +1,13 @@
-I learned git how developers can colloborate easy and secure way
-
-git is control version that control your activites
-
-github is online platform that you can store your projects
+I learned how to change status and fix mistakes.
 
 
-commit means you can save your changes for your local 
+
+
+Git is the actual software tool installed locally on your computer that manages the version history of your project.
+
+
+GitHub is a cloud-based hosting service that stores your Git repositories online, making it easy to collaborate and share code with others.
+
+
+
+A commit is a "snapshot" of your project at a specific point in time.
